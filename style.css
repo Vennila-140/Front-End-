@@ -1,0 +1,118 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #ebeb96;
+}
+
+header {
+    background: #333;
+    color: #f39292;
+    padding: 1em 0;
+    text-align: center;
+    font-family: 'Georgia', serif;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #b1c5f8;
+    text-decoration: none;
+    font-family: 'Verdana', sans-serif;
+}
+
+main {
+    padding: 20px;
+    margin: 10px auto;
+    background: #bbd1f8;
+    border-radius: 5px;
+    max-width: 800px;
+    text-align: left;
+    font-family: 'Tahoma', sans-serif;
+}
+
+article {
+    padding: 20px;
+    margin: 10px auto;
+    background: #afc9f0;
+    border-radius: 5px;
+    max-width: 800px;
+    text-align: left;
+    font-family: 'Courier New', monospace;
+}
+
+section {
+    padding: 20px;
+    margin: 10px auto;
+    background: #c8bcf3;
+    border-radius: 5px;
+    max-width: 800px;
+    text-align: left;
+    font-family: 'Lucida Console', monospace;
+}
+
+aside {
+    padding: 20px;
+    margin: 10px auto;
+    background: #b5e6f4;
+    border-radius: 5px;
+    max-width: 800px;
+    text-align: left;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+details {
+    padding: 20px;
+    margin: 10px auto;
+    background: #a4cbeb;
+    border-radius: 5px;
+    max-width: 800px;
+    text-align: left;
+    font-family: 'Times New Roman', serif;
+}
+
+figure {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}
+
+figure img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+footer {
+    background: #161515;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    font-family: 'Arial Black', sans-serif;
+}
+
+footer nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+footer nav ul li a {
+    color: #dbf69c;
+    text-decoration: none;
+}
